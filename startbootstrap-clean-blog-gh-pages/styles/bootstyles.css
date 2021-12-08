@@ -1,0 +1,68 @@
+
+.tableau {
+    max-width: 200px;
+
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 50px;
+    gap: 50px;
+}
+
+.margin {
+margin-left: 250px;
+margin-right: 250px;
+
+
+}
+
+.margin2 {
+    margin-left: 450px;
+    margin-right: 450px;  
+    border: 5px;  
+    border-style: double;
+
+
+}
+body {
+    background-image: url("../images/img/cooldude.png");
+    background-size: 175%;
+
+
+
+
+}
+
+
+.header {
+    padding: 25px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+  .footer {
+    padding: 25px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+  .myDiv {
+    border: 5px outset; 
+    background-color: lightblue; 
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
