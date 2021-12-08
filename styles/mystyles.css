@@ -1,0 +1,46 @@
+body {
+    background-image: url("../images/img/cooldude.png");
+    background-size: 175%;
+  
+
+
+
+
+
+}
+
+
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+
+
+
+}
+
+img {
+    max-width: 500px;
+}
+
+.center {
+text-align: center;
+
+
+
+}
+
+.normal {
+    font-weight: normal;
+
+
+}
+
+.slant {
+    font-style: italic;
+
+
+}
+.gray {
+    color: gray;
+}
+
